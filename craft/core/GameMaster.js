@@ -1,0 +1,5 @@
+//events
+//-on
+
+//methods
+//-setTimeout
